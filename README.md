@@ -43,7 +43,7 @@ Library Automation\Library Automation# .NET 7 API kodları
 **Admin, Oyun Ve Üye Kontrol Etme Ekranı**
 ![2](https://github.com/user-attachments/assets/094da28c-a306-41f3-9b13-4e5f44c0588c)
 
-![3](https://github.com/user-attachments/assets/c510779b-6edb-46ed-83e7-844f14824292)
+![3](https://github.com/user-attachments/assets/06ce759e-60e9-44a5-a2a4-ac7f7d1dad04)
 
 ![4](https://github.com/user-attachments/assets/5dfff6e9-5a5e-4f3f-a4fe-ebe8663602d4)
 
