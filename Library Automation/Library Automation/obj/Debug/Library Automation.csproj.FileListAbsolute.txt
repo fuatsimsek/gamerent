@@ -1,0 +1,54 @@
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library Automation.csproj.AssemblyReference.cache
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library_Automation.frmLogin.resources
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library_Automation.Properties.Resources.resources
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library Automation.csproj.GenerateResource.cache
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library Automation.csproj.CoreCompileInputs.cache
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\bin\Debug\Library Automation.exe.config
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\bin\Debug\Library Automation.exe
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\bin\Debug\Library Automation.pdb
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library Automation.exe
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library Automation.pdb
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library_Automation.frmMain.resources
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library_Automation.frmBooks.resources
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library_Automation.frmUpdateBooks.resources
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\bin\Debug\FluentValidation.dll
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\bin\Debug\FluentValidation.xml
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library Automation.csproj.CopyComplete
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library_Automation.frmMembers.resources
+C:\Users\Helios\Desktop\library automation\Library Automation\Library Automation\obj\Debug\Library_Automation.FrmUpdateMembers.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library Automation.csproj.AssemblyReference.cache
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.frmLogin.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.frmMain.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.Properties.Resources.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library Automation.csproj.GenerateResource.cache
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library Automation.csproj.CoreCompileInputs.cache
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library Automation.exe
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library Automation.pdb
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\bin\Debug\Library Automation.exe.config
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\bin\Debug\Library Automation.exe
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\bin\Debug\Library Automation.pdb
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\bin\Debug\FluentValidation.dll
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\bin\Debug\FluentValidation.xml
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library Automation.csproj.CopyComplete
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.frmGames.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.frmUsers.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.frmUpdateGames.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.FrmUpdateUsers.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.frmMember.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.frmMemberBakiye.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.frmMemberKutuphane.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.frmMemberProfile.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.frmMemberMagaza.resources
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\bin\Debug\Library Automation.exe.manifest
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\bin\Debug\Library Automation.application
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library Automation.exe.manifest
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library Automation.application
+C:\Users\Helios\Desktop\kopy\Library Automation\Library Automation\obj\Debug\Library_Automation.frmSepet.resources
